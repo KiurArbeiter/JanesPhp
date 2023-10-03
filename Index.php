@@ -8,16 +8,16 @@
 </head>
 <body>
     <?php
-    $firstname = "John <br>";
-    $lastname = "Smith <br>";
+    $firstname = "Kiur";
+    $lastname = "Arbeiter";
     $fullname = $firstname." ".$lastname;
     $zodiac = "zodiac sign<br>";
-    $birthdate = "01.01.2000 <br>";
+    $birthdate = "<br>01.01.2000 <br>";
 
     echo $fullname;
     echo $birthdate;
     echo $zodiac;
-    echo '“It’s My Life” – Dr. Alban<br>';
+    echo '“It’s My Life” – Dr. Albanabr>';
 
     echo "(\(\\<br>";
     echo "( -.-)<br>";
