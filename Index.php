@@ -8,12 +8,14 @@
 </head>
 <body>
     <?php
+    $number = "Ülesanne 1";
     $firstname = "Kiur";
     $lastname = "Arbeiter";
     $fullname = $firstname." ".$lastname;
     $zodiac = "zodiac sign<br>";
     $birthdate = "<br>01.01.2000 <br>";
 
+    echo $number;
     echo $fullname;
     echo $birthdate;
     echo $zodiac;
